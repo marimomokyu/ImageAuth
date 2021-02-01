@@ -39,4 +39,5 @@ class MainActivity : AppCompatActivity() {
     }
 
     //0201テスト
+    //その2
 }
