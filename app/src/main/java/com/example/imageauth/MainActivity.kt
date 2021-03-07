@@ -37,6 +37,5 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(this, Activity_Celebrity::class.java)
         startActivity(intent)
     }
-
-    //0201テスト
+    //0215commitテスト
 }

@@ -9,3 +9,5 @@ class Activity_Celebrity : AppCompatActivity() {
         setContentView(R.layout.activity__celebrity)
     }
 }
+
+//test aoki 2021/02/20
