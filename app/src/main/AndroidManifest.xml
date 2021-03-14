@@ -23,5 +23,7 @@
             </intent-filter>
         </activity>
     </application>
-
+    <!--パーミッション追加　アプリにカメラが必要なことを示す a.suzuki_test-->
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-feature android:name="android.hardware.camera" />
 </manifest>
